@@ -1,5 +1,6 @@
 Planification pour  la création d'une application web :
 
+1-Etude du marché 
 
 2-Analyser les besoins et les exigences
 
@@ -7,5 +8,8 @@ Planification pour  la création d'une application web :
 
 4-Développement 
 
-5-test 
+4-Développement de l'application
 
+5-Test 
+
+6-Maintenance

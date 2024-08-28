@@ -1,9 +1,11 @@
 Planification pour  la création d'une application web :
 
-1-Définir les objectifs 
 
 2-Analyser les besoins et les exigences
 
-3-Conception de l'application
+3-Conception 
 
-4-Développement de l'application
+4-Développement 
+
+5-test 
+
